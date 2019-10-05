@@ -1,10 +1,10 @@
 {
-  "name": "facerecognition-api",
+  "name": "node",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node.js"
+    "start": "nodemon server.js"
   },
   "keywords": [],
   "author": "",
